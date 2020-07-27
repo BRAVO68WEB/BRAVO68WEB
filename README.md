@@ -5,14 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-**BRAVO68WEB** AKA Jyotirmoy Bandyopadhayaya, here, I am 17, a Student Developer from India.
+**BRAVO68WEB** AKA Jyotirmoy Bandyopadhayaya, here, I am 17, a Student Developer from India 🇮🇳 and Loves Cats 😸 and Coffee ☕
 
 I am Senior Developer at Delta Force Techs (@dftechsdevcenter) and Also Website Administrator at https://dfcommunity.win/.
 
-Web Development, OS Customiser and DieHard Programmer
-Firebase, Heroku, Nodejs, Python, C++, Php, HTML, CSS3, Bootstrap4, etc
+Web Development, OS Customiser(Win and Linux) and Die-Hard Programmer
+Firebase, Heroku, Netfily, Nodejs, Python, C++, HTML, CSS3, Bootstrap4, Dicord Bot Bot Development (Discord.js and Discord.py)
 
-Wish me on 27 March
+Wanna be an 🕵️‍♂️ Ethical Hacker and 🤓 Full Stack Developer
+
+Wish me 🎂 on 27 March
 
 - 🔭 I’m currently working on Delta Force Community Library
 - 🌱 I’m currently learning Vue.js
@@ -28,4 +30,4 @@ Bravo68web
 Senior Developer
 DF Techs
 
-Over n Out...
+Over n Out... 
