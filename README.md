@@ -26,6 +26,7 @@ Wish me 🎂 on 27 March
 - ⚡ Fun fact: PHP sucks and Discord Rocks...
 
 ![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravo68web&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Regards,
 Bravo68web
