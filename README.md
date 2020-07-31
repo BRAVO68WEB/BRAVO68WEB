@@ -25,7 +25,7 @@ Wish me 🎂 on 27 March
 - 😄 Pronouns: Bravo68
 - ⚡ Fun fact: PHP sucks and Discord Rocks...
 
-![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula)
+![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula&count_private=true)
 
 Regards,
 Bravo68web
