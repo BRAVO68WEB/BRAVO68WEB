@@ -9,23 +9,23 @@ Here are some ideas to get you started:
 
 I am Senior Developer at Delta Force Techs (@dftechsdevcenter) and Also Website Administrator at https://dfcommunity.win/.
 
-Skills 💪:-
+>Skills 💪:-
 Web Development, OS Customiser(Win and Linux) and Die-Hard Programmer
 
-Workspace and Platform 🤠 :-
-Firebase, Heroku, Netfily, Nodejs, Python, C++, HTML, CSS3, Bootstrap4, Dicord Bot Bot Development (Discord.js and Discord.py)
+>Workspace and Platform 🤠 :-
+Firebase, Heroku, Netfily, Nodejs, Python, C++, HTML, CSS3, Bootstrap4, Discord Bot Bot Development (Discord.js and Discord.py)
 
-Wanna be an 🕵️‍♂️ Ethical Hacker and 🤓 Full Stack Developer
+>>Wanna be an 🕵️‍♂️ Ethical Hacker and 🤓 Full Stack Developer
 
 Wish me 🎂 on 27 March
 
-- 🔭 I’m currently working on Delta Force Community Library
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on Sangeet Music Bot
+- 🌱 I’m currently learning Spotify-API, Reactjs, MongoDB
 - 👯 I’m looking to collaborate on Delta Force Dev Portal
 - 🤔 I’m looking for help with Delta Force Community
 - 💬 Ask me about Delta Force Community (@dfcommunity)
-- 📫 How to reach me: bravo68web@dfcommunity.win
-- 😄 Pronouns: Bravo68
+- 📫 How to reach me: [bravo68web@dfcommunity.win](bravo68web@dfcommunity.win)
+- 😄 Pronouns: Bravo 68 Web
 - ⚡ Fun fact: PHP sucks and Discord Rocks...
 
 ![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula&count_private=true)
