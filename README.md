@@ -2,7 +2,9 @@
 
  **BRAVO68WEB** AKA Jyotirmoy Bandyopadhayaya, here, I am 18, a Student Developer from India 🇮🇳 and Loves Cats 😸 and Coffee ☕
 
-I am Senior Developer at Delta Force Techs (@dftechsdevcenter) and Also Web Administrator at https://dfcommunity.win/.
+I am Senior Developer at Delta Force Techs [@dftechsdevcenter](https://GitHub.com/dftechsdevcenter) and Also Web Administrator at https://dfcommunity.win/.
+
+## About
 
 >Skills 💪:-
 Web Development, OS Customiser(Win and Linux) and Die-Hard Programmer and Debugger
@@ -13,7 +15,11 @@ Python, Nodejs, C++, HTML, CSS, Bootstrap, Vue.js, React.js, Shell Script, Batch
 >Platform 🤠 :-
 Firebase, Heroku, Netfily, Discord Bot Bot Development (Discord.js and Discord.py), Docker
 
->>Wanna be an 🕵️‍♂️ Ethical Hacker and 🤓 Full Stack Developer
+>Wanna be :-
+Wanna be an 🕵️‍♂️ Ethical Hacker and 🤓 Full Stack Developer
+
+>Frameworks :-
+Hexojs, Discord.js, Discord.py, Cosmic.js, Firebase, Grav, Wordpress, Express, DF Community API
 
 **Wish me 🎂 on 27 March**
 
@@ -46,6 +52,6 @@ Bravo68web
 Senior Developer
 DF Techs
 
-### Regards,
+## Regards,
 Over n Out... 
 [@dfcommunity](https://GitHub.com/Dfcommunity)
