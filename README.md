@@ -1,10 +1,5 @@
 # Hi there 👋
 
-<!--
-**BRAVO68WEB/BRAVO68WEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
  **BRAVO68WEB** AKA Jyotirmoy Bandyopadhayaya, here, I am 18, a Student Developer from India 🇮🇳 and Loves Cats 😸 and Coffee ☕
 
 I am Senior Developer at Delta Force Techs (@dftechsdevcenter) and Also Web Administrator at https://dfcommunity.win/.
@@ -35,13 +30,13 @@ Firebase, Heroku, Netfily, Discord Bot Bot Development (Discord.js and Discord.p
 
 ## You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center">: Bravo68-DF_Techs#6429
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : [`BRAVO68WEB`][Twitter]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-telegram.svg" width="20px" align="center"> : [`Bravo68web`][Telegram]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-gmail.svg" width="20px" align="center"> : bravo68web@gmail.com OR bravo68web@dfcommunity.win
-- <img src="https://keybase.io/favicon.ico" width="20px" align="center"> : Bravo68web
-- <img src="https://www.shuuka.com/images/favicon/favicon-32x32.png" width="20px" align="center"> : Bravo68web
-- <img src="https://www.instagram.com/favicon.ico" width="20px" align="center"> : @jbandyopadhayaya
+- ![Discord Logo](https://dftechs.dfcommunity.win/user/pages/03.Members/bravo68web/discord.jpg) : [`Bravo68-DF_Techs#6429`][Discord]
+- ![Twitter](https://abs.twimg.com/favicons/twitter.ico) : [`BRAVO68WEB`][Twitter]
+- ![Telegram](https://telegram.org/favicon.ico) : [`Bravo68web`][Telegram]
+- ![Email](https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico) : [`bravo68web@gmail.com`][gmail] OR [`bravo68web@dfcommunity.win`][Email]
+- ![Keybase](https://keybase.io/favicon.ico) : [`Bravo68web`][Keybase]
+- ![Shuuka](https://www.shuuka.com/images/favicon/favicon-32x32.png) : [`Bravo68web`][Suuka]
+- ![Instagram](https://www.instagram.com/favicon.ico) : [`@jbandyopadhayaya`][Instagram]
 
 >![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula&count_private=true)
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravo68web&layout=compact)
