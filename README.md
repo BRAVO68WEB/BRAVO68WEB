@@ -43,6 +43,7 @@ Hexojs, Discord.js, Discord.py, Cosmic.js, Firebase, Grav, Wordpress, Express, D
 - ![Keybase](https://keybase.io/favicon.ico) : [`Bravo68web`][Keybase]
 - ![Shuuka](https://www.shuuka.com/images/favicon/favicon-32x32.png) : [`Bravo68web`][Suuka]
 - ![Instagram](https://www.instagram.com/favicon.ico) : [`@jbandyopadhayaya`][Instagram]
+- ![exophase](https://raw.githubusercontent.com/DFCommunity/img-stack/master/exophase.png) : [`bravo68web`][Exophase]
 
 >![My Github Peformance](https://github-readme-stats.vercel.app/api?username=Bravo68web&show_icons=true&theme=dracula&count_private=true)
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravo68web&layout=compact)
