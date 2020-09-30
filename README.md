@@ -27,7 +27,7 @@ Hexojs, Discord.js, Discord.py, Cosmic.js, Firebase, Grav, Wordpress, Express, D
 
 - 🔭 I’m currently working on Dockerfile-Gen
 - 🌱 I’m currently learning Nodejs Interactive CLI
-- 👯 I’m looking to collaborate on Delta Force Dev Portal
+- 👯 I’m looking to contribute to Hacktoberfest 2020
 - 🤔 I’m looking for help with Delta Force Community
 - 💬 Ask me about Delta Force Community (@dfcommunity)
 - 📫 How to reach me: [bravo68web@dfcommunity.win](bravo68web@dfcommunity.win)
