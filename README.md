@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [dftechs-cli](https://github.com/DFTECHSDEVCENTER/dftechs-cli)
 
-- 👨‍💻 All of my projects are available at [https://bravo68web.dfcommunity.win](https://bravo68web.dfcommunity.win)
+- 👨‍💻 All of my projects are available at [https://bravo68web.dfcommunity.win/#works](https://bravo68web.dfcommunity.win/#works)
 
 - 💬 Ask me about **DF Techs**
 
