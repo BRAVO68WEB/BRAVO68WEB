@@ -1,15 +1,10 @@
-# This is a basic workflow to help you get started with Actions
+name: Waka Readme
 
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  push:
-    branches: [ master ]
+  workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
