@@ -44,12 +44,9 @@
 <h2 align="center">GitHub Statics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&theme=merko&layout=compact" alt="bravo68web" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /></p>
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /> <br><br><br><br></p>
 
-<h2 align="center">Wakatime Daily Statics</h2>
+<p><h2 align="left"><br><br><br><br>Wakatime Daily Statics</h2></p>
 
 <!--START_SECTION:waka-->
 ```text
@@ -60,3 +57,4 @@ JSON         9 mins          █░░░░░░░░░░░░░░░░
 Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 <!--END_SECTION:waka-->
+
