@@ -43,10 +43,9 @@
 
 <h2 align="center">GitHub Statics</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&theme=merko&layout=compact" alt="bravo68web" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /></p>
 <br>
 <br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /></p>
 <br>
 <br>
 <br>
