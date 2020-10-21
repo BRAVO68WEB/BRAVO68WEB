@@ -45,6 +45,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /></p>
 
+<h1 align="center">Wakatime Daily Statics</h1>
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs 8 mins    ██████████████░░░░░░░░░░░   56.10 % 
