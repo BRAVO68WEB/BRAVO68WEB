@@ -50,8 +50,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <h2 align="center">Wakatime Daily Statics</h2>
 
 <!--START_SECTION:waka-->
