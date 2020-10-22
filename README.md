@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=f1d104&style=flat-square" alt="bravo68web" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web" alt="bravo68web" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=onedark" alt="bravo68web" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
