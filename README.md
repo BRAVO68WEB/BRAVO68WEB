@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with [dftechs-cli](https://github.com/DFTECHSDEVCENTER/dftechs-cli)
 
-- 👨‍💻 All of my projects are available at [https://bravo68web.dfcommunity.win](https://bravo68web.dfcommunity.win)
+- 👨‍💻 All of my projects are available at [https://bravo68web.me](https://bravo68web.me)
 
 - 💬 Ask me about **DF Techs**
 
 - 📫 How to reach me **bravo68web@gmail.com**
 
-- 📄 Know about my experiences [https://bravo68web.dfcommunity.win](https://bravo68web.dfcommunity.win)
+- 📄 Know about my experiences [https://bravo68web.me](https://bravo68web.me)
 
 - ⚡ Fun fact **PHP Sucks and Discord Rocks !!!**
 
