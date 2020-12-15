@@ -50,9 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-XML          24 mins         ██████████████▒░░░░░░░░░░   57.16 % 
-HTML         16 mins         █████████▓░░░░░░░░░░░░░░░   38.22 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+
 ```
 <!--END_SECTION:waka-->
 
