@@ -50,8 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML     1 hr 40 mins    ███████████████████████░░   92.25 % 
-CSS      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+
 ```
 <!--END_SECTION:waka-->
 
