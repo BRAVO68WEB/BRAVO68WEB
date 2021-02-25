@@ -50,7 +50,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+C++          25 mins         ███████████████████▓░░░░░   79.22 % 
+Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JavaScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 <!--END_SECTION:waka-->
 
