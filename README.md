@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack and Discord Bot developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=f1d104&style=flat-square" alt="bravo68web" /> </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=onedark" alt="bravo68web" /></a> </p>
 
@@ -45,6 +47,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&theme=merko&layout=compact" alt="bravo68web" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&theme=dracula" alt="bravo68web" /> <br><br><br><br></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 
 <p><h2 align="left"><br><br><br><br>Wakatime Daily Statics</h2></p>
 
