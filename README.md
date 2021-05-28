@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **DF Techs**
 
-- 📫 How to reach me **bravo68web@gmail.com**
+- 📫 How to reach me **me@bravo68web.me**
 
 - 📄 Know about my experiences [https://bravo68web.me](https://bravo68web.me)
 
