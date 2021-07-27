@@ -3,7 +3,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
-
+<p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/457039372009865226" alt="bravo68web" /> </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
 <br>
