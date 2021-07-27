@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Bandyopadhayaya [BRAVO68WEB]</h1>
 <h3 align="center">A passionate DevOps, Server Administrator and Discord Bot developer from India</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
-<p align="left"> <img src="https://lanyard-profile-readme.vercel.app/api/457039372009865226" alt="bravo68web" /> </p>
+<p align="center"> <img src="https://lanyard-profile-readme.vercel.app/api/457039372009865226" alt="bravo68web" /> </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=onedark" alt="bravo68web" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=onedark" alt="bravo68web" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
+<p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
 - 🔭 I’m currently working with [Affilboost](https://github.com/Sweep-Service)
 
@@ -38,7 +36,7 @@
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=tokyonight" alt="bravo68web" /></p>
 
