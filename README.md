@@ -1,23 +1,25 @@
+
+<p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
 <h1 align="center">Hi 👋, I'm Jyotirmoy Bandyopadhayaya [BRAVO68WEB]</h1>
 <h3 align="center">A passionate DevOps, Server Administrator and Discord Bot developer from India</h3>
 
-<p align="center"> <img src="https://lanyard-profile-readme.vercel.app/api/457039372009865226" alt="bravo68web" /> </p>
+<p align="center"> <img src="https://api.bravo68web.me/me/discord/banner" alt="bravo68web" /> </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
 <br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=onedark" alt="bravo68web" /></a> </p>
+<p align="center"><img src="https://api.bravo68web.me/me/github/banner/trophy" alt="bravo68web" /> </p>
 
 <p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
 - 🔭 I’m currently working with [Affilboost](https://github.com/Sweep-Service)
 
-- 🌱 I’m currently learning **DevOps and Automation**
+- 🌱 I’m currently learning **VS Code Extenstion Frameworks and API**
 
-- 👯 I’m looking to collaborate on [DFCommunity API](https://github.com/DFCommunity/api)
+- 👯 I’m looking to collaborate on [gen-dockerfile](https://github.com/DFTECHSDEVCENTER/gen-dockerfile)
 
-- 🤝 I’m looking for help with [Hexo-Web-Nary](https://github.com/DFCommunity/Hexo-Web-Nary)
+- 🤝 I’m looking for help with Gist API.
 
 - 👨‍💻 All of my projects are available at [https://bravo68web.me/#works](https://bravo68web.me/#works)
 
@@ -36,11 +38,14 @@
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/topLang" alt="bravo68web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=tokyonight" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/stats" alt="bravo68web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bravo68web&theme=shades-of-purple" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/streaks" alt="bravo68web" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bravo68web&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/wakatime" alt="bravo68web" /></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
+
+<p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
