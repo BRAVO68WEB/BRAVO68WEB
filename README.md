@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Bandyopadhayaya [BRAVO68WEB]</h1>
 <h3 align="center">A passionate DevOps, Server Administrator and Discord Bot developer from India</h3>
 
-<p align="center"> <img src="https://api.bravo68web.me/me/discord/banner" alt="bravo68web" /> </p>
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bravo68web&label=Profile%20views&color=0e75b6&style=flat" alt="bravo68web" /> </p>
 <br>
@@ -49,3 +49,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
 
 <p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
+
+[![Discord Presence](https://bravo68web-api.herokuapp.com/me/discord/banner)](https://discord.com/users/457039372009865226)
