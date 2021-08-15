@@ -43,7 +43,7 @@
 
 <p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/stats" alt="bravo68web" /></p>
 
-<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/streaks" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bravo68web&theme=dracula&hide_border=true" alt="bravo68web" /></p>
 
 <p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/wakatime" alt="bravo68web" /></p>
 
