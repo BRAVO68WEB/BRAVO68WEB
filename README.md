@@ -10,7 +10,7 @@
 <br>
 
 
-<p align="center"><img src="https://api.bravo68web.me/me/github/banner/trophy" alt="bravo68web" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=bravo68web&theme=discord&column=3&row=2" alt="bravo68web" /> </p>
 
 <p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
@@ -39,13 +39,13 @@
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 <br>
 
-<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/topLang" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
 
-<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/stats" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=vision-friendly-dark" alt="bravo68web" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bravo68web&theme=dracula&hide_border=true" alt="bravo68web" /></p>
 
-<p align="center"> <img align="center" src="https://api.bravo68web.me/me/github/banner/wakatime" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bravo68web&theme=onedark" alt="bravo68web" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
 
