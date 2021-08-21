@@ -39,7 +39,7 @@
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&include_all_commits=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=vision-friendly-dark" alt="bravo68web" /></p>
 
