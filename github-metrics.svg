@@ -3451,7 +3451,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="213.48666666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="213.58999999999997 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3474,7 +3474,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 3066 times</div>
+                                <div class="text">Repositories have been deployed 3067 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3926,7 +3926,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.637637637637638 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7927927927927927 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3950,12 +3950,12 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 880k out of 238m repositories
+                      ranked 847k out of 238m repositories
                     </span>
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 18 stars</div>
+                                <div class="text">Maintaining a repository with 19 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
