@@ -3431,7 +3431,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="256.57666666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="256.68 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3454,7 +3454,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 3483 times</div>
+                                <div class="text">Repositories have been deployed 3484 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3814,7 +3814,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.788944723618091 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3843,7 +3843,7 @@
                   
                   
                 </div>
-                                <div class="text">Reviewed 10 pull requests</div>
+                                <div class="text">Reviewed 11 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
