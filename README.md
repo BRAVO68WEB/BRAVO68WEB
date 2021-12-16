@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bravo68web.me/#works](https://bravo68web.me/#works)
 
-- 💬 Ask me about **DF Techs**
+<!-- - 💬 Ask me about **DF Techs** -->
 
 - 📫 How to reach me **me@bravo68web.me**
 
