@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working with [Affilboost](https://github.com/Sweep-Service)
 
-- 🌱 I’m currently learning **VS Code Extenstion Frameworks and API**
+- 🌱 I’m currently learning **Unity Game Engine**
 
 - 👯 I’m looking to collaborate on [gen-dockerfile](https://github.com/DFTECHSDEVCENTER/gen-dockerfile)
 
-- 🤝 I’m looking for help with Gist API.
+- 🤝 I’m looking for help with Go Lang and Unity.
 
 - 👨‍💻 All of my projects are available at [https://bravo68web.me/#works](https://bravo68web.me/#works)
 
