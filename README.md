@@ -14,13 +14,13 @@
 
 <p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
-- 🔭 I’m currently working with [Affilboost](https://github.com/Sweep-Service)
+- 🔭 I’m currently working with [Engineer's Cradle](https://engineerscradle.com/)
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
-- 👯 I’m looking to collaborate on [gen-dockerfile](https://github.com/DFTECHSDEVCENTER/gen-dockerfile)
+<!-- - 👯 I’m looking to collaborate on [gen-dockerfile](https://github.com/DFTECHSDEVCENTER/gen-dockerfile) -->
 
-- 🤝 I’m looking for help with Go Lang and Unity.
+- 🤝 I’m looking for help with Go Lang, Rust and Unity.
 
 - 👨‍💻 All of my projects are available at [https://bravo68web.me/#works](https://bravo68web.me/#works)
 
