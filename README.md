@@ -41,7 +41,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-sable.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="bravo68web" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bravo68web&theme=dracula&hide_border=true" alt="bravo68web" /></p>
 
