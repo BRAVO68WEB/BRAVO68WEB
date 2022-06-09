@@ -1,0 +1,9 @@
+on: pull_request
+jobs:
+  auto-merge:
+    - name: Merge
+      uses: KeisukeYamashita/auto-pull-request-merge@v1
+      with:
+        intervalSeconds: 10
+        timeoutSeconds: 30
+        token: GITHUB_TOKEN
