@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
 <h1 align="center">Hi 👋, I'm Jyotirmoy Bandyopadhayaya [BRAVO68WEB]</h1>
-<h3 align="center">A passionate DevOps, Server Administrator and Discord Bot developer from India</h3>
+<h3 align="center">A passionate DevOps, Backend and Discord Bot developer from India</h3>
 
 <p align="center"><a href="https://discord.com/users/457039372009865226"><img src="https://lanyard-profile-readme.vercel.app/api/457039372009865226"></a></p>
                            
