@@ -15,21 +15,21 @@
 
 <p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
-- 🔭 I’m currently working with [Engineer's Cradle](https://engineerscradle.com/)
+- 🔭 I’m currently working with [Hybr1d](https://hybr1d.io/)
 
-- 🌱 I’m currently learning **Unity Game Engine**
+- 🌱 I’m currently learning **PgSQL + Adv TS**
 
-<!-- - 👯 I’m looking to collaborate on [gen-dockerfile](https://github.com/DFTECHSDEVCENTER/gen-dockerfile) -->
+<!-- - 👯 I’m looking to collaborate on  -->
 
-- 🤝 I’m looking for help with Go Lang, Rust and Unity.
+- 🤝 I’m looking for help with Go Lang, Rust.
 
-- 👨‍💻 All of my projects are available at [https://bravo68web.me/#works](https://bravo68web.me/#works)
+- 👨‍💻 All of my projects are available at [https://www.itsmebravo.dev/projects](https://www.itsmebravo.dev/projects)
 
 <!-- - 💬 Ask me about **DF Techs** -->
 
 - 📫 How to reach me **me@bravo68web.me**
 
-- 📄 Know about my experiences [https://bravo68web.me](https://bravo68web.me)
+- 📄 Know about my experiences [https://itsmebravo.dev/stats](https://itsmebravo.dev/stats)
 
 - ⚡ Fun fact **PHP Sucks and Discord Rocks !!!**
 
