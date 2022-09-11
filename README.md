@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **PgSQL + Adv TS**
 
-<!-- - 👯 I’m looking to collaborate on  -->
+- 👯 I’m looking to collaborate on A.I.O Compiler
 
 - 🤝 I’m looking for help with Go Lang, Rust.
 
