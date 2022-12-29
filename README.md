@@ -40,9 +40,9 @@
 <p><a href="https://www.buymeacoffee.com/bravo68web"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bravo68web" /></a></p><br><br>
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-sable.vercel.app/api/top-langs?username=bravo68web&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github.com/BRAVO68WEB/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="bravo68web top langs" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-sable.vercel.app/api?username=bravo68web&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true&include_all_commits=true" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github.com/BRAVO68WEB/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="bravo68web" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bravo68web&theme=dracula&hide_border=true" alt="bravo68web" /></p>
 
