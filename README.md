@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="https://twitter.com/bravo68web" target="blank"><img src="https://img.shields.io/twitter/follow/bravo68web?logo=twitter&style=for-the-badge" alt="bravo68web" /></a> </p>
 
-- 🔭 I’m currently working with [Hybr1d](https://hybr1d.io/)
+- 🔭 I’m currently working with [SharpSell.ai](https://sharpsell.ai/)
 
 - 🌱 I’m currently learning **PgSQL + Adv TS**
 
@@ -27,7 +27,7 @@
 
 <!-- - 💬 Ask me about **DF Techs** -->
 
-- 📫 How to reach me **me@bravo68web.me**
+- 📫 How to reach me **hi@b68.dev**
 
 - 📄 Know about my experiences [https://itsmebravo.dev/stats](https://itsmebravo.dev/stats)
 
