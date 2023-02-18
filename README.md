@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
+<p align="center"><img src="header.png"></p>
 <h1 align="center">Hi 👋, I'm Jyotirmoy Bandyopadhayaya [BRAVO68WEB]</h1>
 <h3 align="center">A passionate DevOps, Backend and Discord Bot developer from India</h3>
 
