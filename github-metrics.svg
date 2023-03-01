@@ -2034,7 +2034,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1351.9099999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1352.0133333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2056,7 +2056,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 14083 times</div>
+                                <div class="text">Repositories have been deployed 14084 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2390,7 +2390,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.00502512562815 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.22613065326634 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2427,9 +2427,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 78.9k out of 109m users</span>
+                                    <span class="gh">ranked 79.7k out of 109m users</span>
                                 </div>
-                                <div class="text">Followed by 105 users</div>
+                                <div class="text">Followed by 104 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2473,7 +2473,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 224k out of 380m repositories</span>
+                                    <span class="gh">ranked 224k out of 381m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 49 times</div>
                             </div>
@@ -2651,7 +2651,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 877k out of 380m repositories</span>
+                                    <span class="gh">ranked 877k out of 381m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 24 stars</div>
                             </div>
