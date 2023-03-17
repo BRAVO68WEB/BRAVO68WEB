@@ -2044,7 +2044,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1387.8700000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1387.9733333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2066,7 +2066,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 14431 times</div>
+                                <div class="text">Repositories have been deployed 14432 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2208,7 +2208,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 36.2k out of 110m users</span>
+                                    <span class="gh">ranked 36.2k out of 111m users</span>
                                 </div>
                                 <div class="text">Published 223 public repositories</div>
                             </div>
@@ -2437,7 +2437,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 70.2k out of 110m users</span>
+                                    <span class="gh">ranked 70.2k out of 111m users</span>
                                 </div>
                                 <div class="text">Followed by 117 users</div>
                             </div>
