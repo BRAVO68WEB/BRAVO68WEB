@@ -26,3 +26,4 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SECTION_NAME: "waka"
