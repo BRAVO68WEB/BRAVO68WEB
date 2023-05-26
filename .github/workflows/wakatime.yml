@@ -17,7 +17,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT: "True"
@@ -27,3 +26,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SECTION_NAME: "waka"
+          SHOW_LOC_CHART: "False"
