@@ -50,5 +50,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
 
