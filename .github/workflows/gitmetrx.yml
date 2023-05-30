@@ -19,6 +19,7 @@ jobs:
           user: bravo68web
           template: classic
           base: ""
+          commits_authoring: bravo68web@gmail.com
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_secrets: yes
