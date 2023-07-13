@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working with [GDSC LPU](https://gdsclpu.live/)
 
-- 🌱 I’m currently learning **Rust AAdv Designs**
+- 🌱 I’m currently learning **Rust Adv Designs**
 
 - 👯 I’m looking to collaborate on OSS Projects
 
