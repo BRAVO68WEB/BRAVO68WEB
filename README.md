@@ -46,7 +46,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bravo68web&theme=dracula&hide_border=true" alt="bravo68web" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api/wakatime?username=bravo68web&count_private=true&show_icons=true&theme=aura_dark&border_radius=10&&langs_count=10&layout=compact&range=last_7_days" alt="bravo68web" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api/wakatime?username=bravo68web&count_private=true&show_icons=true&theme=aura_dark&border_radius=10&&langs_count=10&layout=compact" alt="bravo68web" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
 
