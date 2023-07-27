@@ -19,7 +19,7 @@ jobs:
           user: bravo68web
           template: classic
           base: ""
-          commits_authoring: bravo68web, jbandyopadhayaya@gmail.com
+          commits_authoring: bravo68web, 41448663+BRAVO68WEB@users.noreply.github.com
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_secrets: yes
