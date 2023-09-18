@@ -2121,7 +2121,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 31.4k out of 118m users</span>
+                                    <span class="gh">ranked 31.4k out of 119m users</span>
                                 </div>
                                 <div class="text">Published 251 public repositories</div>
                             </div>
@@ -2350,7 +2350,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 52.8k out of 118m users</span>
+                                    <span class="gh">ranked 52.8k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 164 users</div>
                             </div>
@@ -2396,7 +2396,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.83919597989949 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.84924623115578 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2424,7 +2424,7 @@
                                     <span class="prefix"></span>
                                     Reviewer
                                 </div>
-                                <div class="text">Reviewed 56 pull requests</div>
+                                <div class="text">Reviewed 65 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2528,7 +2528,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 899k out of 59.3m repositories</span>
+                                    <span class="gh">ranked 899k out of 52.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
