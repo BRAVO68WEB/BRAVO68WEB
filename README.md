@@ -49,6 +49,15 @@
 <p align="center"><img src="https://raw.githubusercontent.com/BRAVO68WEB/BRAVO68WEB/master/github-metrics.svg"></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript     33 hrs 47 mins  ███████████████▒░░░░░░░░░   61.34 %
+JSON           10 hrs 20 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Markdown       2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JavaScript     2 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Bash           1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
