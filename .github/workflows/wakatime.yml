@@ -1,29 +1,23 @@
 name: Waka Readme
 
 on:
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 * * * *"
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "True"
-          SHOW_OS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SECTION_NAME: "waka"
-          SHOW_LOC_CHART: "False"
+          COMMITTER_NAME: "BRAVO68WEB"
+          COMMITTER_EMAIL: "41448663+BRAVO68WEB@users.noreply.github.com"
+          AUTHOR_EMAIL: "41448663+BRAVO68WEB@users.noreply.github.com"
+          AUTHOR_NAME: "BRAVO68WEB"
+          COMMIT_MESSAGE: "Updated Readme with Dev Metrics"
+          GH_TOKEN: ${{ secrets.GH_PAT }}
