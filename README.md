@@ -60,4 +60,4 @@ Python       2 hrs 7 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center"><img src="https://bravo68web.me/images/header_.png"></p>
+<p align="center"><img src="https://www.itsmebravo.dev/images/header-banner.png"></p>
